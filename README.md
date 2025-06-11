@@ -1,4 +1,4 @@
-# Find Flights MCP Server ![Option #1](https://github.com/user-attachments/assets/95f0c9fb-f8d8-4290-8b70-26b683707173)
+# Find Flights MCP Server
 
 
 [![smithery badge](https://smithery.ai/badge/@ravinahp/travel-mcp)](https://smithery.ai/server/@ravinahp/travel-mcp)
